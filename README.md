@@ -1,4 +1,4 @@
-# fUAC (f**k User Account Control) ![Downloads](https://img.shields.io/github/downloads/tryallthethings/fUAC/total.svg?style=flat) [![Latest Release](https://img.shields.io/github/v/release/tryallthethings/fUAC.svg?logo=github)](https://github.com/tryallthethings/fUAC/releases)
+# fUAC (f**k User Account Control) ![Downloads](https://img.shields.io/github/downloads/tryallthethings/fUAC/total.svg?style=flat) [![Latest Release](https://img.shields.io/github/v/release/tryallthethings/fUAC.svg?logo=github)](https://github.com/tryallthethings/fUAC/releases) ![Code scanning - action](https://github.com/tryallthethings/fUAC/workflows/Code%20scanning%20-%20action/badge.svg)
 
 **PLEASE READ: Before continuing to download / use this tool please be aware of the implied security risk. Disabling UAC might bring some convenience but also brings several security risks. Use this tool at your own risk or contact your local Administrator / IT-Support first!**
 
